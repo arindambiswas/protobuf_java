@@ -30,7 +30,7 @@
 			  name: "ProtocolBuffer"
 			};
     		
-	   		swfobject.embedSWF (	"apps/protobuf/ProtocolBuffer.swf", 
+	   		swfobject.embedSWF (	"apps/protobuf/protocol_buffer_flex.swf", 
 	   								"protocol_buffer_div",
 	   								"100%", 
 	   								"100%", 

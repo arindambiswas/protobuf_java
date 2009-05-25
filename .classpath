@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/datedFileAppender-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/ant.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/commons-el.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/jasper-compiler.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/jasper-runtime.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/naming-common.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/naming-factory.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/naming-java.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/naming-resources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/tomcat/common/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="output" path="webapp/WEB-INF/classes"/>
+</classpath>
